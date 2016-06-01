@@ -1,4 +1,4 @@
-<h1 align="center">Eternal Life</h1>
+<h1 align="center">Eternal Altis Life</h1>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/version-v0.1-9341d9.svg?style=flat-square" alt="Eternal Life Version"></a>
